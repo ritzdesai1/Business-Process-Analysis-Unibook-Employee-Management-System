@@ -3,13 +3,8 @@ This document outlines the details of the proposed Employee Management System (E
 
 ## Processes of the EMS:
 
-### 1. Employee Shift Tracking: 
-This process allows the client to assign shifts according to the employee schedule. It will allow employees to view all the available shifts, enter the preferences of their shifts, and exchange shifts with other employees if necessary.
-### 2. Task Assignment: 
-This will allow the client to put up new task details and assign tasks to employees according to their specialization and work authorization.
-### 3. On-shift employee tracking: 
-This function is used to ensure employees are working according to their shift and break schedule.
-### 4. Employee Discount Verification: 
-This process is to verify that all purchases made by employees are availing their discount and to ensure no one else is misusing it.
-### 5. Inventory Management: 
-This process is mainly used to keep product counts, sales, vendor details, and stocking schedules.
+<p><strong>1. Employee Shift Tracking </strong>: This process allows the client to assign shifts according to the employee schedule. It will allow employees to view all the available shifts, enter the preferences of their shifts, and exchange shifts with other employees if necessary.</p>
+<p><strong>2. Task Assignment</strong>: This will allow the client to put up new task details and assign tasks to employees according to their specialization and work authorization.
+<p><strong>3. On-shift employee tracking </strong>: This function is used to ensure employees are working according to their shift and break schedule.</p>
+<p> <strong>4. Employee Discount Verification</strong>: This process is to verify that all purchases made by employees are availing their discount and to ensure no one else is misusing it.</p>
+<p><strong>5. Inventory Management</strong>: This process is mainly used to keep product counts, sales, vendor details, and stocking schedules. </p>
